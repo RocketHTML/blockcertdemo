@@ -1,2 +1,2 @@
 # blockcertdemo
-Creating an digital certificates application.
+Creating a digital certificates application.
